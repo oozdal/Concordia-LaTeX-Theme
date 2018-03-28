@@ -1,0 +1,14 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{The Standard Model (SM)}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Problems of the Standard Model}{10}{0}{1}
+\beamer@subsectionintoc {1}{3}{Minimal Supersymmetric Standard Model (MSSM)}{14}{0}{1}
+\beamer@sectionintoc {2}{U(1)$_{B-L} \times $ U(1)$_{R}$ Extended MSSM}{19}{0}{2}
+\beamer@subsectionintoc {2}{1}{Model Building}{20}{0}{2}
+\beamer@subsectionintoc {2}{2}{Parameter Space \& Constraints}{23}{0}{2}
+\beamer@sectionintoc {3}{Results}{26}{0}{3}
+\beamer@subsectionintoc {3}{1}{$\setbox \z@ \hbox {\frozen@everymath \@emptytoks \mathsurround \z@ $\textstyle \chi $}\mathaccent "0365{\chi }_1^0$ DM scenario}{27}{0}{3}
+\beamer@subsectionintoc {3}{2}{Heavy Z boson}{30}{0}{3}
+\beamer@subsectionintoc {3}{3}{$\setbox \z@ \hbox {\frozen@everymath \@emptytoks \mathsurround \z@ $\textstyle \nu $}\mathaccent "0365{\nu }_1$ DM scenario}{33}{0}{3}
+\beamer@subsectionintoc {3}{4}{Muon Anomalous Magnetic Moment}{36}{0}{3}
+\beamer@sectionintoc {4}{Conclusion and Future Studies}{40}{0}{4}
+\beamer@subsectionintoc {4}{1}{New results}{41}{0}{4}
